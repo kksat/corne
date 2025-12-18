@@ -511,23 +511,44 @@
     ],
     [
       [
+        "down",
+        "KC_LGUI"
+      ],
+      [
         "tap",
-        "KC_LGUI",
         "KC_X"
+      ],
+      [
+        "up",
+        "KC_LGUI"
       ]
     ],
     [
       [
+        "down",
+        "KC_LGUI"
+      ],
+      [
         "tap",
-        "KC_LGUI",
         "KC_C"
+      ],
+      [
+        "up",
+        "KC_LGUI"
       ]
     ],
     [
       [
+        "down",
+        "KC_LGUI"
+      ],
+      [
         "tap",
-        "KC_LGUI",
         "KC_V"
+      ],
+      [
+        "up",
+        "KC_LGUI"
       ]
     ],
     [
