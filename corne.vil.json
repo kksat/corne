@@ -92,9 +92,9 @@
       [
         "KC_TRNS",
         "KC_TRNS",
-        "KC_CUT",
-        "KC_COPY",
-        "KC_PSTE",
+        "M2",
+        "M3",
+        "M4",
         "KC_TRNS",
         -1,
         "KC_INSERT",
@@ -509,10 +509,33 @@
         "KC_LCTRL"
       ]
     ],
-    [],
-    [],
-    [],
-    [],
+    [
+      [
+        "tap",
+        "KC_LGUI",
+        "KC_X"
+      ]
+    ],
+    [
+      [
+        "tap",
+        "KC_LGUI",
+        "KC_C"
+      ]
+    ],
+    [
+      [
+        "tap",
+        "KC_LGUI",
+        "KC_V"
+      ]
+    ],
+    [
+      [
+        "down",
+        "KC_TRNS"
+      ]
+    ],
     [],
     [],
     [],
